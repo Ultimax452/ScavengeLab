@@ -5,4 +5,4 @@ compatibility_date = "2026-05-03"
 [[d1_databases]]
 binding = "DB"
 database_name = "scavenge-assistant"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "75b80500-0de8-4b3c-bd15-b35a7b1e521b"
