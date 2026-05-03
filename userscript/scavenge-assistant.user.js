@@ -19,9 +19,8 @@
     const DATA_SHARING_BUFFER_KEY = 'tribalScavengeAssistant.dataSharingBuffer.v1';
     const UI_KEY = 'tribalScavengeAssistant.ui.v1';
     const BRAND_NAME = 'Scavenge Assistant';
-    const BRAND_AUTHOR = 'Scavenge Assistant Project';
+    const BRAND_AUTHOR = 'Created by Ultimax';
     const BRAND_YEAR = '2026';
-    const LICENSE_NAME = 'MIT';
     const SCRIPT_VERSION = '0.8.0';
     const DATA_SHARING_ENDPOINT = 'https://scavenge-assistant.scavengelab.hradek-vl.workers.dev/collect';
     const DATA_SHARING_BATCH_SIZE = 10;
