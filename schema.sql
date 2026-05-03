@@ -1,0 +1,9 @@
+dataset.json.txt
+dataset*.json
+dataset*.txt
+PROJECT_DESCRIPTION.md
+tribal-scavenge-assistant.user.js
+*.log
+.wrangler/
+.dev.vars
+node_modules/
