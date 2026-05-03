@@ -23,7 +23,7 @@
     const BRAND_YEAR = '2026';
     const LICENSE_NAME = 'MIT';
     const SCRIPT_VERSION = '0.8.0';
-    const DATA_SHARING_ENDPOINT = 'https://scavengelab.hradek-vl.workers.dev/';
+    const DATA_SHARING_ENDPOINT = 'https://scavenge-assistant.scavengelab.hradek-vl.workers.dev/collect';
     const DATA_SHARING_BATCH_SIZE = 10;
     const DATA_SHARING_TS_BUCKET_SECONDS = 3600;
     const TROOP_TYPES = [
