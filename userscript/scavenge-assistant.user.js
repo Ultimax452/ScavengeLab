@@ -3,8 +3,7 @@
 // @namespace    local.tribal-scavenge-assistant
 // @version      0.8.0
 // @description  Pokročilý testovací asistent pro plánování, vyplňování a vyhodnocování sběru surovin v Divokých kmenech. Nikdy sám neodesílá příkaz.
-// @author       Scavenge Assistant Project
-// @license      MIT
+// @author       Vladimír(UltimaX)Hrádek
 // @match        https://*.tribalwars.net/game.php*
 // @match        https://*.divokekmeny.cz/game.php*
 // @grant        none
@@ -24,7 +23,7 @@
     const BRAND_YEAR = '2026';
     const LICENSE_NAME = 'MIT';
     const SCRIPT_VERSION = '0.8.0';
-    const DATA_SHARING_ENDPOINT = 'https://example.com/collect';
+    const DATA_SHARING_ENDPOINT = 'https://scavengelab.hradek-vl.workers.dev/';
     const DATA_SHARING_BATCH_SIZE = 10;
     const DATA_SHARING_TS_BUCKET_SECONDS = 3600;
     const TROOP_TYPES = [
